@@ -1,0 +1,14 @@
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\bin\Debug\net8.0\PPON.Generator.exe
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\bin\Debug\net8.0\PPON.Generator.deps.json
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\bin\Debug\net8.0\PPON.Generator.runtimeconfig.json
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\bin\Debug\net8.0\PPON.Generator.dll
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\bin\Debug\net8.0\PPON.Generator.pdb
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\PPON.Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\PPON.Generator.AssemblyInfoInputs.cache
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\PPON.Generator.AssemblyInfo.cs
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\PPON.Generator.csproj.CoreCompileInputs.cache
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\PPON.Generator.dll
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\refint\PPON.Generator.dll
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\PPON.Generator.pdb
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\PPON.Generator.genruntimeconfig.cache
+C:\Users\sammywilliams\source\Local-Dev\PPON generator practise\PPON generator practise\obj\Debug\net8.0\ref\PPON.Generator.dll
